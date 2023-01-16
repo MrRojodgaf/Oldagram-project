@@ -6,6 +6,7 @@ html, body {
 .container {
     width: 375px;
     margin: auto;
+    border: 1.5px solid #222;
 }
 
 .logo {
